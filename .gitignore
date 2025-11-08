@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# Node / JS
+node_modules/
+dist/
+build/
+
+# System junk
+.DS_Store
+Thumbs.db
